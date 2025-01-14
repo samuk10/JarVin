@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "folder": "00 - Log/Diario",
+    "template": "99 - Meta/00 - Templates/00. Diário.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "template": "99 - Meta/00 - Templates/01. Semanal.md",
+    "folder": "00 - Log/Diario/01_Semanal",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-[M]MM",
+    "template": "99 - Meta/00 - Templates/02. Mensal.md",
+    "folder": "00 - Log/Diario/02_Mensal",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[Q]Q",
+    "template": "99 - Meta/00 - Templates/03. Trimestral.md",
+    "folder": "00 - Log/Diario/03_Trimestral",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY-[Y]",
+    "template": "99 - Meta/00 - Templates/04. Anual.md",
+    "folder": "00 - Log/Diario/04_Anual",
+    "enabled": true
+  }
+}

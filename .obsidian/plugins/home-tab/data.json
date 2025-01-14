@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "01 - Projects/Projeto Obsidian/src/Docs (falta revisar)/README.md",
+      "timestamp": 1736893987191
+    },
+    {
+      "filepath": "01 - Projects/Projeto Obsidian/src/Docs (falta revisar)/Help.md",
+      "timestamp": 1736893985452
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1736893834825
+    },
+    {
+      "filepath": "01 - Projects/Projeto Obsidian/Rascunho criação Projeto.md",
+      "timestamp": 1736893824036
+    },
+    {
+      "filepath": "01 - Projects/Projeto Obsidian/PARA Method.md",
+      "timestamp": 1736893823381
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

@@ -1,0 +1,174 @@
+{
+  "scanned": true,
+  "reminders": {
+    "02 - Areas/Coisas da Casa/Entradas e Saídas Mensais.md": [
+      {
+        "title": "Dentista",
+        "time": "2025-01-23 00:00",
+        "rowNumber": 31
+      },
+      {
+        "title": "Completar via ==TASKS==",
+        "time": "2024-12-23",
+        "rowNumber": 41
+      }
+    ],
+    "00 - Log/Todo/_Longo prazo.md": [
+      {
+        "title": "limpar filtro máquina de lavar",
+        "time": "2025-01-10 17:36",
+        "rowNumber": 18
+      },
+      {
+        "title": "trocar lente contato (1 de 12)",
+        "time": "2025-01-08",
+        "rowNumber": 21
+      }
+    ],
+    "02 - Areas/Pessoas/Iza.md": [
+      {
+        "title": "🎉 Tia Iza aniversário",
+        "time": "2025-11-21",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Matheus Reis.md": [
+      {
+        "title": "🎉 Matheus Reis aniversário",
+        "time": "2025-09-22",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Pedro Miguel.md": [
+      {
+        "title": "🎉 Pedro Miguel aniversário",
+        "time": "2025-09-28",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Samara.md": [
+      {
+        "title": "🎉 Samara aniversário",
+        "time": "2025-03-19",
+        "rowNumber": 14
+      }
+    ],
+    "02 - Areas/Pessoas/Vinicius.md": [
+      {
+        "title": "🎉 Vinicius aniversário",
+        "time": "2025-02-22",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Rhennan.md": [
+      {
+        "title": "🎉 Rhennan aniversário",
+        "time": "2025-05-18",
+        "rowNumber": 12
+      }
+    ],
+    "00 - Log/Todo/_Trabalho.md": [
+      {
+        "title": "[[Projeto Template Zabbix Bacula]]",
+        "time": "2024-12-23",
+        "rowNumber": 18
+      },
+      {
+        "title": "[[DNS Recursivo Projeto]]",
+        "time": "2024-12-23",
+        "rowNumber": 27
+      },
+      {
+        "title": "[[Projeto HAPROXY]]",
+        "time": "2024-12-23",
+        "rowNumber": 36
+      },
+      {
+        "title": "[[Confluence WIKI Conect Projeto]]",
+        "time": "2024-12-23",
+        "rowNumber": 45
+      },
+      {
+        "title": "Padronizar senhas usshd e root user ansible",
+        "time": "2024-12-23",
+        "rowNumber": 62
+      },
+      {
+        "title": "proxy ldap 10.3.1.200 container redis, como starta? e criar ==[compose](https://github.com/Red5d/docker-autocompose)",
+        "time": "2024-12-23",
+        "rowNumber": 66
+      },
+      {
+        "title": "Criar cron para: *Deletar órfãos* Zabbix",
+        "time": "2024-12-23 11:17",
+        "rowNumber": 14
+      },
+      {
+        "title": "DELETAR VM Speedtest3 e Speedtest4 ANTIGAS",
+        "time": "2025-01-02",
+        "rowNumber": 89
+      }
+    ],
+    "02 - Areas/Bateria, Letras e Hinos/Escala Louvor/2024-12-24 Cantata Natal.md": [
+      {
+        "title": "🥁 Praticar Hinos",
+        "time": "2024-12-23 00:00",
+        "rowNumber": 18
+      }
+    ],
+    "02 - Areas/Pessoas/Ana Raquel.md": [
+      {
+        "title": "🎉 Ana Raquel Roupa Vermelho Cereja aniversário",
+        "time": "2025-12-09 00:00",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Matheus Girard.md": [
+      {
+        "title": "🎉 Matheus Girard aniversário",
+        "time": "2025-11-27 00:00",
+        "rowNumber": 12
+      }
+    ],
+    "01 - Projects/Projeto Upgrade Stack Zabbix/Projeto Upgrade Stack Zabbix.md": [
+      {
+        "title": "Add [[Zabbix TimescaleDB]](update database)",
+        "time": "2024-12-23 11:46",
+        "rowNumber": 99
+      }
+    ],
+    "01 - Projects/Projeto Upgrade Stack Zabbix/Zabbix TimescaleDB.md": [
+      {
+        "title": "restart policy db e zabbix",
+        "time": "2024-12-23",
+        "rowNumber": 133
+      }
+    ],
+    "00 - Log/Diario/2024-12-20.md": [
+      {
+        "title": "📧 Verificar Emails",
+        "time": "2024-12-20",
+        "rowNumber": 69
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "08:30",
+    "laters": "In 5 minutes\nIn 10 minutes\nIn 15 minutes\nIn 30 minutes\nIn 1 hour\nIn 3 hours\nIn 7 hours\nTomorrow\nNext Monday\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

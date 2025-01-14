@@ -1,0 +1,165 @@
+{
+  "scanned": true,
+  "reminders": {
+    "02 - Areas/Coisas da Casa/Entradas e Saídas Mensais.md": [
+      {
+        "title": "Dentista",
+        "time": "2025-01-23 00:00",
+        "rowNumber": 31
+      },
+      {
+        "title": "Completar via ==TASKS==",
+        "time": "2025-01-30 00:00",
+        "rowNumber": 41
+      }
+    ],
+    "00 - Log/Todo/_Longo prazo.md": [
+      {
+        "title": "limpar filtro máquina de lavar",
+        "time": "2025-01-14",
+        "rowNumber": 18
+      },
+      {
+        "title": "trocar lente contato (1 de 12)",
+        "time": "2025-01-14",
+        "rowNumber": 21
+      }
+    ],
+    "02 - Areas/Pessoas/Iza.md": [
+      {
+        "title": "🎉 Tia Iza aniversário",
+        "time": "2025-11-21",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Matheus Reis.md": [
+      {
+        "title": "🎉 Matheus Reis aniversário",
+        "time": "2025-09-22",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Pedro Miguel.md": [
+      {
+        "title": "🎉 Pedro Miguel aniversário",
+        "time": "2025-09-28",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Samara.md": [
+      {
+        "title": "🎉 Samara aniversário",
+        "time": "2025-03-19",
+        "rowNumber": 14
+      }
+    ],
+    "02 - Areas/Pessoas/Vinicius.md": [
+      {
+        "title": "🎉 Vinicius aniversário",
+        "time": "2025-02-22",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Rhennan.md": [
+      {
+        "title": "🎉 Rhennan aniversário",
+        "time": "2025-05-18",
+        "rowNumber": 12
+      }
+    ],
+    "00 - Log/Todo/_Trabalho.md": [
+      {
+        "title": "Criar cron para: *Deletar órfãos* Zabbix",
+        "time": "2025-01-14",
+        "rowNumber": 14
+      },
+      {
+        "title": "Padronizar senhas usshd e root user ansible",
+        "time": "2025-01-14",
+        "rowNumber": 62
+      },
+      {
+        "title": "proxy ldap 10.3.1.200 container redis, como starta? e criar ==[compose](https://github.com/Red5d/docker-autocompose)",
+        "time": "2025-01-14",
+        "rowNumber": 66
+      },
+      {
+        "title": "[[Projeto Template Zabbix Bacula]]",
+        "time": "2025-01-20",
+        "rowNumber": 18
+      },
+      {
+        "title": "[[DNS Recursivo Projeto]]",
+        "time": "2025-01-20",
+        "rowNumber": 27
+      },
+      {
+        "title": "[[Projeto HAPROXY]]",
+        "time": "2025-01-20",
+        "rowNumber": 36
+      },
+      {
+        "title": "[[Confluence WIKI Conect Projeto]]",
+        "time": "2025-01-20",
+        "rowNumber": 45
+      }
+    ],
+    "02 - Areas/Pessoas/Ana Raquel.md": [
+      {
+        "title": "🎉 Ana Raquel Roupa Vermelho Cereja aniversário",
+        "time": "2025-12-09 00:00",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Matheus Girard.md": [
+      {
+        "title": "🎉 Matheus Girard aniversário",
+        "time": "2025-11-27 00:00",
+        "rowNumber": 12
+      }
+    ],
+    "01 - Projects/Projeto Upgrade Stack Zabbix/Projeto Upgrade Stack Zabbix.md": [
+      {
+        "title": "todo 6.4",
+        "time": "2025-01-14",
+        "rowNumber": 19
+      },
+      {
+        "title": "colocar cert 10.3.1.200",
+        "time": "2025-01-14",
+        "rowNumber": 142
+      }
+    ],
+    "07 - Archives/03 - Notas Principais/DIARIO.md": [
+      {
+        "title": "trocar certificado tatooine",
+        "time": "2026-01-01",
+        "rowNumber": 23585
+      },
+      {
+        "title": "att cert",
+        "time": "2026-01-03",
+        "rowNumber": 23589
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "08:30",
+    "laters": "In 5 minutes\nIn 10 minutes\nIn 15 minutes\nIn 30 minutes\nIn 1 hour\nIn 3 hours\nIn 7 hours\nTomorrow\nNext Monday\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

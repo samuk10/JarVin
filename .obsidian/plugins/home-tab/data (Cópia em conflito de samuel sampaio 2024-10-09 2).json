@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "02 - Areas/Pregações e Reflexões/2024-10-09 Pregação GC Homens.md",
+      "timestamp": 1728527810023
+    },
+    {
+      "filepath": "02 - Areas/Pregações e Reflexões/2024-10-09 pregação Juninho.md",
+      "timestamp": 1728527806290
+    },
+    {
+      "filepath": "99 - Meta/00 - Templates/77. Pessoa.md",
+      "timestamp": 1728527717682
+    },
+    {
+      "filepath": "99 - Meta/00 - Templates/00. Diário.md",
+      "timestamp": 1728527717180
+    },
+    {
+      "filepath": "99 - Meta/00 - Templates/27. Pregação.md",
+      "timestamp": 1728527716332
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

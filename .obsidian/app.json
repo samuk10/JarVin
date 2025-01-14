@@ -1,0 +1,18 @@
+{
+  "showInlineTitle": true,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99 - Meta/01 - Anexos",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "99 - Meta/",
+    "09 - Plugins/"
+  ],
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "autoPairBrackets": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "uriCallbacks": true
+}

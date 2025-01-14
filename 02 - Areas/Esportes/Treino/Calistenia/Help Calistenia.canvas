@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8a9dbd298742b32d","type":"file","file":"02 - Areas/Esportes/Treino/Calistenia/Calistenia.md","x":-100,"y":-280,"width":800,"height":400},
+		{"id":"17cadfaf08f25163","type":"file","file":"02 - Areas/Esportes/Treino/Calistenia/Tipos/Biceps.md","x":-720,"y":380,"width":400,"height":400},
+		{"id":"59f5273211c8a48b","type":"file","file":"02 - Areas/Esportes/Treino/Calistenia/Tipos/Costas.md","x":-300,"y":380,"width":400,"height":400},
+		{"id":"dcd5e84a752d7c98","type":"file","file":"02 - Areas/Esportes/Treino/Calistenia/Tipos/Peito.md","x":120,"y":380,"width":400,"height":400},
+		{"id":"6e76b23a708dcaf6","type":"text","text":"[[00. Diário]]\n## 🏡 Pessoal\n- [ ] Treinar [[Calistenia]] (@<%tp.file.title%> 19:00)","x":-720,"y":-220,"width":400,"height":280},
+		{"id":"70475a2efc59ea83","type":"file","file":"02 - Areas/Esportes/Treino/Calistenia/Tipos/Tríceps.md","x":560,"y":380,"width":400,"height":400},
+		{"id":"53f2bede4a09d12d","type":"text","text":"Template: Diário Calistenia\ntreino hoje é: biceps/peito","x":-165,"y":1120,"width":465,"height":280},
+		{"id":"b7b4e3ea814788db","type":"text","text":"Verifica qual treino anterior cria novo arquivo","x":-210,"y":960,"width":530,"height":100}
+	],
+	"edges":[
+		{"id":"3772e84fd2dae2ea","fromNode":"6e76b23a708dcaf6","fromSide":"right","toNode":"8a9dbd298742b32d","toSide":"left"}
+	]
+}

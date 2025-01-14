@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "99 - Meta/00 - Templates/57. Escala Louvor.md",
+      "timestamp": 1730807475866
+    },
+    {
+      "filepath": "99 - Meta/00 - Templates/56. Música Louvor Hino.md",
+      "timestamp": 1730807465363
+    },
+    {
+      "filepath": "02 - Areas/Bateria, Letras e Hinos/Escala Louvor/2024-12-24 Cantata Natal.md",
+      "timestamp": 1730807181265
+    },
+    {
+      "filepath": "01 - Projects/Projeto Upgrade Stack Zabbix.md",
+      "timestamp": 1730807179877
+    },
+    {
+      "filepath": "MyVault.canvas",
+      "timestamp": 1730807179541
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

@@ -1,0 +1,82 @@
+- [ ] Açúcar
+- [ ] Água mineral
+- [ ] Alho
+- [ ] Amaciante
+- [ ] Arroz
+- [ ] Aveia
+- [ ] Azeite de oliva
+- [ ] Bacon
+- [ ] Batatas
+- [ ] Bebidas (Sucos)
+- [ ] Biscoito
+- [ ] Café
+- [ ] Chá
+- [ ] Canela
+- [ ] Carnes
+- [ ] Chocolate
+- [ ] Coco ralado
+- [ ] Creme Dental
+- [ ] Doce de leite
+- [ ] Escova de Dentes
+- [ ] Farinha
+- [ ] Feijão
+- [ ] Fósforo
+- [ ] Frango 
+- [ ] Frutas (Maçã, Banana, Uva...)
+- [ ] Gelatina
+- [ ] Guardanapo 
+- [ ] Iogurte
+- [ ] Ketchup
+- [ ] Legumes (Batata)
+- [ ] Leite
+- [ ] Leite Condensado
+- [ ] Macarrão
+- [ ] Maionese
+- [ ] Manteiga
+- [ ] Margarina
+- [ ] Milho de pipoca
+- [ ] Milho verde enlatado
+- [ ] Óleo de soja
+- [ ] Ovos
+- [ ] Pão
+- [ ] Papel alumínio
+- [ ] Papel toalha
+- [ ] Polpa de frutas congeladas
+- [ ] Produtos de higiene pessoal
+- [ ] Produtos de limpeza
+- [ ] Queijo ralado
+- [ ] Sabão em Pó
+- [ ] Sabonete
+- [ ] Sal
+- [ ] Vinagre
+
+### Não comprados
+%% 
+- não consumo
+- não sei fazer
+- não tenho tempo de fazer 
+%%
+- [x] Absorventes
+- [x] Atum enlatado
+- [x] Cereal
+- [x] Creme de leite
+- [x] Ervilha
+- [x] Filé de peixe
+- [x] Lentilha
+- [x] Linguiça
+- [x] Mandioca
+- [x] Mel
+- [x] Morango
+- [x] Nozes
+- [x] Palmito
+- [x] Pimenta
+- [x] Presunto
+- [x] Queijo
+- [x] Requeijão
+- [x] Salame
+- [x] Salsicha
+- [x] Sementes
+- [x] Verduras
+
+
+

@@ -1,0 +1,216 @@
+{
+  "scanned": true,
+  "reminders": {
+    "02 - Areas/Coisas da Casa/Entradas e Saídas Mensais.md": [
+      {
+        "title": "Completar via ==TASKS==",
+        "time": "2024-10-11",
+        "rowNumber": 28
+      },
+      {
+        "title": "ACERTAR TODAS TASKS PARA NOVO FORMATO",
+        "time": "2024-10-13",
+        "rowNumber": 15
+      }
+    ],
+    "01 - Projects/Obsidian/_Obsidian.md": [
+      {
+        "title": "Acertar o Done do Tasks VS Reminder(query do diario)",
+        "time": "2024-10-11",
+        "rowNumber": 84
+      }
+    ],
+    "00 - Log/Todo/_Curto prazo.md": [
+      {
+        "title": "Comprar velija",
+        "time": "2024-10-10 17:52",
+        "rowNumber": 79
+      },
+      {
+        "title": "Despertar no celular pra preencher as coisas",
+        "time": "2024-10-10 20:25",
+        "rowNumber": 101
+      },
+      {
+        "title": "Anotar hora extra BACKUP sexta 21:30 ate 4:35",
+        "time": "2024-10-11",
+        "rowNumber": 20
+      },
+      {
+        "title": "[[Migração FTP Projeto]] 🔼 ➕ 2024-10-07",
+        "time": "2024-10-11",
+        "rowNumber": 22
+      },
+      {
+        "title": "[[Problema bacula pós férias]] 🔺",
+        "time": "2024-10-11",
+        "rowNumber": 23
+      },
+      {
+        "title": "[[DNS Recursivo Projeto]]",
+        "time": "2024-10-11",
+        "rowNumber": 24
+      },
+      {
+        "title": "[[Confluence WIKI Conect Projeto]]",
+        "time": "2024-10-11",
+        "rowNumber": 25
+      },
+      {
+        "title": "[[Template Zabbix Bacula Projeto]]",
+        "time": "2024-10-11",
+        "rowNumber": 26
+      },
+      {
+        "title": "INOÃ(fx4) e  FX8(grande)SAMPAIO CORREA add mapa OLT Nokia",
+        "time": "2024-10-11",
+        "rowNumber": 29
+      },
+      {
+        "title": "pegar presente na Sensação com Lucilene",
+        "time": "2024-10-11",
+        "rowNumber": 97
+      },
+      {
+        "title": "[[Wanguard Projeto]]",
+        "time": "2024-10-21",
+        "rowNumber": 21
+      }
+    ],
+    "00 - Log/Todo/_Longo prazo.md": [
+      {
+        "title": "trocar lente contato (9 de 12)",
+        "time": "2024-11-08 00:00",
+        "rowNumber": 30
+      }
+    ],
+    "00 - Log/Todo/Compras.md": [
+      {
+        "title": "carregador indução ALI",
+        "time": "2024-10-10 20:25",
+        "rowNumber": 21
+      },
+      {
+        "title": "fone in-ear ALI",
+        "time": "2024-10-11",
+        "rowNumber": 23
+      }
+    ],
+    "02 - Areas/Pessoas/Iza.md": [
+      {
+        "title": "🎉 Tia Iza aniversário",
+        "time": "2025-11-21",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Matheus Reis.md": [
+      {
+        "title": "🎉 Matheus Reis aniversário",
+        "time": "2025-09-22",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Pedro Miguel.md": [
+      {
+        "title": "🎉 Pedro Miguel aniversário",
+        "time": "2025-09-28",
+        "rowNumber": 12
+      }
+    ],
+    "02 - Areas/Pessoas/Samara.md": [
+      {
+        "title": "🎉 Samara aniversário",
+        "time": "2025-03-19",
+        "rowNumber": 14
+      }
+    ],
+    "02 - Areas/Pessoas/Vinicius.md": [
+      {
+        "title": "🎉 Vinicius aniversário",
+        "time": "2025-02-22",
+        "rowNumber": 8
+      }
+    ],
+    "02 - Areas/Pessoas/Rhennan.md": [
+      {
+        "title": "🎉 Rhennan aniversário",
+        "time": "2025-05-18",
+        "rowNumber": 12
+      }
+    ],
+    "01 - Projects/DNS Recursivo Projeto.md": [
+      {
+        "title": "criar backup",
+        "time": "2024-10-11",
+        "rowNumber": 27
+      },
+      {
+        "title": "Verificar e comparar regras `noFIREWALL` e `INVALID_AND_ASN265066`",
+        "time": "2024-10-11",
+        "rowNumber": 95
+      }
+    ],
+    "01 - Projects/Migração FTP Projeto.md": [
+      {
+        "title": "Migrar SFTP para Niteroi 🔼 ➕ 2024-10-07",
+        "time": "2024-10-11",
+        "rowNumber": 22
+      }
+    ],
+    "01 - Projects/Problema bacula pós férias.md": [
+      {
+        "title": "Segunda a máquina0034 e 33 vão para TANGUÁ",
+        "time": "2024-10-11",
+        "rowNumber": 101
+      },
+      {
+        "title": "o KVM vai sair de maricá",
+        "time": "2024-10-11",
+        "rowNumber": 102
+      }
+    ],
+    "00 - Log/Diario/2024-10-10.md": [
+      {
+        "title": "💧 Beber água x5",
+        "time": "2024-10-10 18:00",
+        "rowNumber": 90
+      },
+      {
+        "title": "👨‍🎓 Faculdade [[Matérias]]",
+        "time": "2024-10-10 19:00",
+        "rowNumber": 91
+      }
+    ],
+    "01 - Projects/Template Zabbix Bacula Projeto.md": [
+      {
+        "title": "Criar template grafana",
+        "time": "2024-10-11",
+        "rowNumber": 27
+      },
+      {
+        "title": "Alarmar no Zabbix caso o Bacula não faça  🔼 ➕ 2024-10-03",
+        "time": "2024-10-11",
+        "rowNumber": 242
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "08:30",
+    "laters": "In 5 minutes\nIn 10 minutes\nIn 15 minutes\nIn 30 minutes\nIn 1 hour\nIn 3 hours\nIn 7 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

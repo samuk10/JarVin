@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "00 - Log/Diario",
+  "template": "99 - Meta/00 - Templates/00. Diário",
+  "autorun": true
+}

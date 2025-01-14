@@ -1,0 +1,50 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "09 - Plugins/ReadItLater Inbox/Article 2024-11-09 23-02-39.md",
+      "timestamp": 1731204159624
+    },
+    {
+      "filepath": "07 - Archives/02 - Areas/Bateria/DDRUM DD1/DDRUM DD1.md",
+      "timestamp": 1731204141380
+    },
+    {
+      "filepath": "00 - Log/Diario/2024-11-09.md",
+      "timestamp": 1731204110760
+    },
+    {
+      "filepath": "99 - Meta/01 - Anexos/Pasted image 20241109184738.png",
+      "timestamp": 1731204110721
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

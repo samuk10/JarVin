@@ -1,0 +1,27 @@
+{
+  "openaiApiKey": "",
+  "googleApiKey": "",
+  "microsoftApiKey": "",
+  "anthropicApiKey": "",
+  "grocqApiKey": "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",
+  "tavilyApiKey": "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",
+  "youtubeApiKey": "AIzaSyDz9eliiRht1rnYvSytVbne7AKGVzmZHfI",
+  "ollamaServerUrl": "http://localhost:11434",
+  "selectedProvider": "ollama",
+  "selectedModel": "",
+  "providerModels": {
+    "openai": [],
+    "google": [],
+    "microsoft": [],
+    "anthropic": [],
+    "grocq": [],
+    "ollama": [
+      "llama3.1:latest"
+    ]
+  },
+  "customPatternsFolder": "09 - Plugins/Mesh/Patterns",
+  "fabricPatternsFolder": "09 - Plugins/Fabric/Patterns",
+  "meshOutputFolder": "09 - Plugins/Mesh/Express",
+  "patternStitchingEnabled": false,
+  "enableDebugging": true
+}

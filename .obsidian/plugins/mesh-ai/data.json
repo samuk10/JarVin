@@ -1,0 +1,33 @@
+{
+  "openaiApiKey": "",
+  "googleApiKey": "",
+  "microsoftApiKey": "",
+  "anthropicApiKey": "",
+  "grocqApiKey": "",
+  "tavilyApiKey": "",
+  "openrouterApiKey": "",
+  "usePerplexity": false,
+  "perplexityApiKey": "",
+  "youtubeApiKey": "",
+  "ollamaServerUrl": "http://localhost:11434",
+  "microsoftEndpointUrl": "",
+  "selectedProvider": "openai",
+  "selectedModel": "",
+  "providerModels": {
+    "openai": [],
+    "google": [],
+    "microsoft": [],
+    "anthropic": [],
+    "grocq": [],
+    "ollama": [
+      "qwen2:7b"
+    ],
+    "openrouter": []
+  },
+  "customPatternsFolder": "",
+  "fabricPatternsFolder": "",
+  "meshOutputFolder": "",
+  "patternStitchingEnabled": false,
+  "enableDebugging": false,
+  "workflows": []
+}

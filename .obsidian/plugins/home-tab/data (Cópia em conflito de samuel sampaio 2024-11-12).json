@@ -1,0 +1,50 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "07 - Archives/03 - Notas Principais/DIARIO.md",
+      "timestamp": 1731387328131
+    },
+    {
+      "filepath": "01 - Projects/Projeto Upgrade Stack Zabbix/Projeto Upgrade Stack Zabbix.md",
+      "timestamp": 1731358918762
+    },
+    {
+      "filepath": "00 - Log/Todo/_Trabalho.md",
+      "timestamp": 1731358916279
+    },
+    {
+      "filepath": "99 - Meta/01 - Anexos/Pasted image 20241108132543.png",
+      "timestamp": 1731330468765
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

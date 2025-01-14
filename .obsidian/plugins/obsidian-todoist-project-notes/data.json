@@ -1,0 +1,10 @@
+{
+  "apikey": "",
+  "notefolder": "09 - Plugins/Todoist",
+  "nested": true,
+  "separator": " ~ ",
+  "deletedProjectHandling": "archive",
+  "archivefolder": "_Archives",
+  "linktasks": true,
+  "templatefile": "99 - Meta/00 - Templates/86. Todoist_Sample"
+}
